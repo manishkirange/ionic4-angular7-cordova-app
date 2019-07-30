@@ -1,0 +1,7 @@
+{
+  "name": "challenge",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
