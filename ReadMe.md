@@ -30,8 +30,6 @@
     | Path | %ANDROID_HOME%\emulator  |
     | Path | %JAVA_HOME%\bin |
 
-**Note :** This all are one time process, no need this steps again and again
- 
  ## Create ionic+angular application
 
         ionic start appName sidemenu -type=angular
@@ -46,3 +44,5 @@
 ## Build platform
 
         ionic cordova build android
+       
+ Above command build **android platform** and create **unsigned apk** file in the output directory
