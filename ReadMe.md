@@ -32,14 +32,17 @@
 
 **Note :** This all are one time process, no need this steps again and again
  
- ## Creating ionic+angular application
+ ## Create ionic+angular application
 
-        ionic start appName -type=angular
+        ionic start appName sidemenu -type=angular
         
-## Running Ionic Application
+## Run Ionic Application
 
         ionic serve
-## Add Android Platform and build
+## Add platform as Android
 
         ionic cordova platform add android
+        
+## Build platform
+
         ionic cordova build android
