@@ -3,8 +3,10 @@
 ## Prerequisites Software
 - Install [Nodejs](https://nodejs.org/en/)
   and check version with below command
-  >node -v 
-  >npm -v
+  
+      node -v
+      npm -v
+  
 - Install [ionic](https://ionicframework.com/getting-started#cli) globally
 
         npm i -g ionic
