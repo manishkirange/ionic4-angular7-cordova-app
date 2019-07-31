@@ -2,7 +2,7 @@
 
 ## Prerequisites Software
 - Install [Nodejs](https://nodejs.org/en/)
-  Check version which can be downloaded in your pc please below commond
+  and check version with below command
   >node -v 
   >npm -v
 - Install [ionic](https://ionicframework.com/getting-started#cli) globally
